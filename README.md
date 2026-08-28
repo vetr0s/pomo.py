@@ -17,6 +17,13 @@ pomo 50 --break 10
 
 Press `Ctrl-C` at any time to quit.
 
+I usually want to have the timer visible while I work.
+To solve this I usually increase the text and crop a
+floating terminal window that is on the top layer of the
+windows. For example:
+
+[Screenshot of pomo running on my desktop](./imgs/pomo.py.png)
+
 ## Install
 
 Requires Python 3.
