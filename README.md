@@ -24,7 +24,7 @@ Requires Python 3.
 ```sh
 chmod +x pomo.py
 mkdir -p ~/.local/bin
-cp pomo.py ~/.local/bin/pomo
+ln -s $(pwd)/pomo.py ~/.local/bin/pomo
 ```
 
 Make sure `~/.local/bin` is in your `PATH`.
