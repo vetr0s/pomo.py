@@ -22,7 +22,7 @@ To solve this I usually increase the text and crop a
 floating terminal window that is on the top layer of the
 windows. For example:
 
-[Screenshot of pomo running on my desktop](./imgs/pomo.py.png)
+![Screenshot of pomo running on my desktop](./imgs/pomo.py.png)
 
 ## Install
 
